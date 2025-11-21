@@ -1,0 +1,2 @@
+Para instalar local usamos las herramientas de InnoSeptup y normal el sql server
+estos comandos en consola para cada proyecto para proyecto React Ntive (npx expo export --platform web) para la API (dotnet publish -c Release -o publish)
